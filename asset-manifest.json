@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/universal-movies/static/css/main.70a47c26.css",
+    "main.js": "/universal-movies/static/js/main.ca18846a.js",
+    "static/media/place.ico": "/universal-movies/static/media/place.f2da07050f0b5b8bc9f6.ico",
+    "static/media/movie.ico": "/universal-movies/static/media/movie.1bbb1a52b50ebdc679c9.ico",
+    "static/media/search.gif": "/universal-movies/static/media/search.1bcdd7a4be3ec79f34f2.gif",
+    "index.html": "/universal-movies/index.html",
+    "main.70a47c26.css.map": "/universal-movies/static/css/main.70a47c26.css.map",
+    "main.ca18846a.js.map": "/universal-movies/static/js/main.ca18846a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70a47c26.css",
+    "static/js/main.ca18846a.js"
+  ]
+}
